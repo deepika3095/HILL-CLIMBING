@@ -1,6 +1,6 @@
 <h1>ExpNo 5 : Implement Simple Hill Climbing Algorithm</h1> 
-<h3>Name:             </h3>
-<h3>Register Number:             </h3>
+<h3>Name: Deepika R            </h3>
+<h3>Register Number: 212223230038           </h3>
 <H3>Aim:</H3>
 <p>Implement Simple Hill Climbing Algorithm and Generate a String by Mutating a Single Character at each iteration </p>
 <h2> Theory: </h2>
@@ -41,8 +41,28 @@ Feedback is provided in terms of heuristic function
 <hr>
 <h2>Sample Input and Output</h2>
 <h2>Sample String:</h2> Artificial Intelligence
-## Program
-``
+<h2>Output:</h2>
+Score: 643  Solution :  8RzF:oG ]%;CPORRMe!zGvk<br>
+Score: 609  Solution :  8RzF:oG ]%;CPqRRMe!zGvk<br>
+Score: 604  Solution :  8RzF:oG ]%;CPqRRMe!zGqk<br>
+Score: 594  Solution :  8RzF:oG ]%;CPqRRWe!zGqk<br>
+Score: 551  Solution :  8RzF:oGK]%;CPqRRWe!zGqk<br>
+Score: 551  Solution :  8RzF:oGK]%;CPqRRWe!zGqk<br>
+Score: 551  Solution :  8RzF:oGK]%;CPqRRWe!zGqk<br>
+Score: 551  Solution :  8RzF:oGK]%;CPqRRWe!zGqk<br>
+Score: 551  Solution :  8RzF:oGK]%;CPqRRWe!zGqk<br>
+....................................................<br>
+..................................................<br>
+................................................<br>
+Score: 1  Solution :  Artificial Intelligencf<br>
+Score: 1  Solution :  Artificial Intelligencf<br>
+Score: 1  Solution :  Artificial Intelligencf<br>
+Score: 1  Solution :  Artificial Intelligencf<br>
+Score: 0  Solution :  Artificial Intelligence<br>
+
+
+### Program :
+```
 import random
 import string
 
@@ -87,7 +107,10 @@ def SimpleHillClimbing():
 
 SimpleHillClimbing()
 ```
-<h2>Output:</h2>
-<img width="796" height="715" alt="image" src="https://github.com/user-attachments/assets/08ddbe33-60a2-49f7-a5b6-629ac6d4b9ea" />
-<h3>Result:</h3>
+
+### Output :
+<img width="796" height="715" alt="image" src="https://github.com/user-attachments/assets/cb3106e5-3e6c-41a5-ab28-8bafaee527d6" />
+
+### RESULT:
+
 Thus the Simple Hill Climb Algorithm Implemented successfully.
